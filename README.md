@@ -16,11 +16,6 @@ My code is very simple to run.
 8a. A higher number will result in more variation in results. For testing forced triplets I used 2000000
 9. Enter your forced triplets.
 9a. I used 0 to create the comparison chart and set maximum number to 2
-10. Enjoy the below dog.
-     ██▄▄▄▄▄▄▄▄▄   
-    ▒▒▒▒▒▒▒▒▒▒▓██  
-   ▀▀▒▒▒▀▀▒▒▒▓▓▓▓█ 
- ▄▄▄▒▒░    ░░▒▒▒▓█ 
- ▀▀▀▒▄▄▄   ░░▒▒▒▓█ 
-   █▄░   ░░▒▒▒▒▓▓█ 
-    ▀█▄▄▄▄▄▄▄▄▄▀▀  
+
+
+10. I tried to include a fun picture of a dog here, but github murdered it after formatting for the main screen. So you get this instead.
